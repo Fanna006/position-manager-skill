@@ -25,11 +25,11 @@ This skill utilizes a multi-layered folder structure to separate analytical cont
     ├── LICENSE                               # MIT Licensed
     └── README.md                             # You are here
 
-## ⚙️ Installation
+## Installation
 To use within your Claude Code / Solana AI Kit workspace:
 1. Clone the repository.
 2. Move the `skill/`, `agents/` and `commands/` folders into your kit's root structure.
 3. Query the agent: *"Analyze my Orca SOL/USDC position and run the impermanent loss agent."*
 
-## 📜 License
+## License
 Licensed under the [MIT License](LICENSE).
